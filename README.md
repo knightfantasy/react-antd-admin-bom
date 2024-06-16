@@ -26,22 +26,22 @@
 
 ### 项目截图
 #### 1、元器件管理：
-![part](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/part.png)
+![part](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/part.png)
 
 #### 2、PCBA备件管理：
-![pcba](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/pcba.png)
+![pcba](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/pcba.png)
 
 #### 3、BOM管理：
-![BOM](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/bom.png)
+![BOM](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/bom.png)
 
 #### 4、产品管理：
-![product](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/product.png)
+![product](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/product.png)
 
 #### 5、库存管理：
-![inventory](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/inventory.png)
+![inventory](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/inventory.png)
 
 #### 6、生产计划管理：
-![product-plan](https://github.com/knightfantasy/react-antd-admin-bom/blob/main/images/plan.png)
+![product-plan](https://github.com/knightfantasy/react-antd-admin-bom/blob/master/images/plan.png)
 
 ### 提交格式
 - feat: 新增功能
